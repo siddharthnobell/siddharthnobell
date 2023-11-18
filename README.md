@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @siddharthnobell, and 
-- Around 12 years of experience in spanning Data Analytics, Data Science, Data Engineering
+- Around 13 years of experience in spanning Data Analytics, Data Science, Data Engineering
 - Managing and Architecting Data Science projects from POC to end-to-end production deployments on Azure
-SaaS cloud services involving Azure Databricks, ML Studio, MLFlow
+- SaaS cloud services involving Azure Databricks, ML Studio, MLFlow
 - Highly skilled in Data Analysis (Python Pandas, Python Vaex, Spark Pandas, NumPy, Matplotlib, Seaborn,
-Geopandas, folium, etc.) and Data Engineering (Python, Shell Script, SQL, Spark Databricks)
+- Geopandas, folium, etc.) and Data Engineering (Python, Shell Script, SQL, Spark Databricks)
 - Knowledge of Scikit-learn, BioPython, Medline and NLTK, Spacy, Scispacy, Flashtext (NLP and NLU)
 - Used Regression, Polynomial, Decision tree, Random Forrest, XGBoost, SVC, and SVM, etc.
 - Text mining (both NLP and NLU based), topic modeling, NER, Text Trend identification & quantification, etc.
