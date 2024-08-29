@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siddharthnobell, and 
+- 👋 Hi, I’m @siddharthnobell, having 
 - Around 15 years of experience in spanning Gen AI, Data Analytics, Data Science and Data Engineering
 - Managing and Architecting Data Science projects from POC to end-to-end production deployments on Azure
 - SaaS cloud services involving Azure Databricks, ML Studio, MLFlow
