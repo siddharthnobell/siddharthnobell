@@ -5,6 +5,7 @@
 - Highly skilled in Data Analysis Python Pandas, Python Vaex, PySpark Pandas, NumPy, Matplotlib, Seaborn,
 - Geopandas, folium, etc. and Data Engineering (Python, Shell Script, SQL, Spark Databricks)
 - Knowledge of Scikit-learn, BioPython, Medline and NLTK, Spacy, Scispacy, Flashtext (NLP and NLU)
+- Knowledge of SLM's(Phi-2, Phi-3), LLM's(ChatGPT, Mistral, RAG architectures) and Langchain ecosystem 
 - Used Regression, Polynomial, Decision tree, Random Forrest, XGBoost, SVC, and SVM, etc.
 - Text mining (both NLP and NLU based), topic modeling, NER, Text Trend identification & quantification, etc.
 - Exposure to R and have used it for analysis of microbiome data
