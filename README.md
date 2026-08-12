@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siddharthnobell, having 
-- Around 15 years of experience in spanning Gen AI, Data Analytics, Data Science and Data Engineering
+- Around 16 years of experience in spanning Gen AI, Data Analytics, Data Science and Data Engineering
 - Managing and Architecting Data Science projects from POC to end-to-end production deployments on Azure
 - SaaS cloud services involving Azure Databricks, Azure ML Studio, MLFlow, AWS SageMaker
 - Highly skilled in Data Analysis Python Pandas, Python Vaex, PySpark Pandas, NumPy, Matplotlib, Seaborn
